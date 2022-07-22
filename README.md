@@ -2,11 +2,13 @@
 
 ![Mi foto de perfil](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene1.jpg)
 
-![Esta soy yo](https://postimg.cc/2LhSTqTf][img]https://i.postimg.cc/2LhSTqTf/Irene3.jpg)
+![Esta soy yo](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene1.jpg)
 
-![Esta soy yo](https://ibb.co/mJ4xMN3)
+![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene2.jpg)
 
-![Esta soy yo](https://ibb.co/tBc3QGd)
+![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene3.jpg)
+
+![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene4.jpg)
 
 
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
