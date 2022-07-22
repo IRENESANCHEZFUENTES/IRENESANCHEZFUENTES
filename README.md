@@ -2,19 +2,10 @@
 
 
 
-Mi foto de perfil
+Mi foto
 
 ![Mi foto de perfil](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene1.jpg)
 
-Esta soy yo
-
-![Esta soy yo](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene1.jpg)
-
-![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene2.jpg)
-
-![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene3.jpg)
-
-![ ](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene4.jpg)
 
 
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
