@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Mi foto de perfil]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](FotoperfildeIrene.jpg))
+![Mi foto de perfil](https://ibb.co/N2PmqXM)
+
+![Esta soy yo](https://ibb.co/VSqJBhR)(https://ibb.co/mJ4xMN3)(https://ibb.co/tBc3QGd))
 
 
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
@@ -10,7 +12,6 @@
 - 😄 Apasionada de la enseñanza, la fonética y ayudar a otros.
 - 🎥 Aficionada al cine y las películas/libros de misterio. 
 - 🚸 Me gustan los niños, leer, el mar y viajar para aprender de otras culturas.
-- 🤔 No me gusta el coco ni la gente que impone su criterio.
 - 🐢 Paciente, responsable, concienzuda.
 - ⚡ No conformarse y seguir educándose.
 - 🌱 Aprendiendo valeciano.
