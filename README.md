@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![Mi foto de perfil]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](https://github.com/IRENESANCHEZFUENTES/IRENESANCHEZFUENTES/blob/f886f48c9b43bb97a2f5a3a7575cb93ecf1d6280/FotoperfildeIrene.jpg)) ```javascript const KeepCoding = { code: [ "BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB", "BIG DATA & MACHINE LEARNING", "DEVOPS", "CIBERSEGURIDAD", "BLOCKCHAIN"], technologies:[ "Cursos Online", "Webbinars", "BootCamps", ] }, homePage: "https://justcodeit.io/" }; `````` 
+
+
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
 - 👯 Buscando colaborar en proyectos de grupo que impliquen mejoras en la enseñanza, desarrollo de inteligancias múltiples; simposios, conferencias, charlas, artículos.
 - 💬 Español nativo, inglés bilingüe, francés avanzado, italiano a nivel comunicativo.
