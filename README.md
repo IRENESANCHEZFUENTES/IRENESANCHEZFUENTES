@@ -2,7 +2,9 @@
 
 ![Mi foto de perfil](https://ibb.co/N2PmqXM)
 
-![Esta soy yo](https://ibb.co/VSqJBhR)(https://ibb.co/mJ4xMN3)(https://ibb.co/tBc3QGd))
+![Esta soy yo](https://ibb.co/VSqJBhR)
+![Esta soy yo](https://ibb.co/mJ4xMN3)
+![Esta soy yo](https://ibb.co/tBc3QGd)
 
 
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
