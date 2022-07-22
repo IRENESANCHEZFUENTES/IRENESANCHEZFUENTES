@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mi foto de perfil]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](https://github.com/IRENESANCHEZFUENTES/IRENESANCHEZFUENTES/blob/f886f48c9b43bb97a2f5a3a7575cb93ecf1d6280/FotoperfildeIrene.jpg)) ```javascript const KeepCoding = { code: [ "BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB", "BIG DATA & MACHINE LEARNING", "DEVOPS", "CIBERSEGURIDAD", "BLOCKCHAIN"], technologies:[ "Cursos Online", "Webbinars", "BootCamps", ] }, homePage: "https://justcodeit.io/" }; `````` 
+![Mi foto de perfil]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](https://github.com/IRENESANCHEZFUENTES/IRENESANCHEZFUENTES/blob/f886f48c9b43bb97a2f5a3a7575cb93ecf1d6280/FotoperfildeIrene.jpg)
 
 
 - 🔭 Terminando Licenciatura Traducción Interpretación. Diplomada en Magisterio, especialidad de inglés.
