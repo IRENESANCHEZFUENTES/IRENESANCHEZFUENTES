@@ -4,7 +4,7 @@
 
 Mi foto
 
-![Mi foto de perfil](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene1.jpg)
+![Mi foto de perfil](https://github.com/IRENESANCHEZFUENTES/images/blob/f54658c7ff9b8c37acdb789f334e1ca8275f394d/Irene2.jpg)
 
 
 
