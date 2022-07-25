@@ -15,7 +15,7 @@ Mi foto
 - 😄 Apasionada de la enseñanza, la fonética y ayudar a otros.
 - 🎥 Aficionada al cine y las películas/libros de misterio. 
 - 🚸 Me gustan los niños, leer, el mar y viajar para aprender de otras culturas.
-- 🐢 Paciente, responsable, concienzuda.
+- 🐢 Paciente, responsable, concienzuda, empática y muy cordial.
 - ⚡ No conformarse y seguir educándose.
-- 🌱 Aprendiendo valeciano.
+- 🌱 Aprendiendo valenciano.
 - 📫 How to reach me: email:kelpirene@gmail.com.
